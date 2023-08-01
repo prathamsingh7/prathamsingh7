@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Pratham Singh
 
 # 💫 About Me:
-⚡ I'm a student at IIIT Gwalior and a data science enthusiast.<br>🔭 I’m currently working on projects using deep learning.<br>🌱 I’m currently learning about Data Science and its applications.<br>💬 Reach me at 299pratham299@gmail.com
+⚡ I'm a final-year student at IIIT Gwalior and a data science enthusiast.<br>🔭 I’m currently working on projects using machine learning, deep learning, and NLP.<br>🌱 I’m currently learning about Data Science and its real-life applications.<br>💬 Reach me at 299pratham299@gmail.com
 
 
 # 💻 Tech Stack:
@@ -14,7 +14,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prathamsingh7&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=prathamsingh7&icon=2&color=3)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials:
